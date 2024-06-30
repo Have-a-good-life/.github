@@ -1,4 +1,12 @@
+# 재난 생존기 - 잘살아보세
+
+AWS 역량강화캠프 프로젝트 경진대회 2등 수상작 <br/>
+
 ![image01](image01.jpg)
+
+![award](award.jpg)
+
+
 ![image05](image05.jpg)
 ![image07](image07.jpg)
 ![image08](image08.jpg)
